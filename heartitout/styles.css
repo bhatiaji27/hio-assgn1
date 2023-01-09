@@ -1,0 +1,370 @@
+.navbar__img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7rem;
+    height: 4.2rem;
+    margin-top: 0 ;
+    margin-bottom: 0;
+  }
+  
+  .navbar{
+      height: fit-content;
+  }
+  
+  .navbar2{
+      background-color: #06283D;
+      height: 8rem;
+  }
+  
+  #section-1 , #section-2, #section-3{
+      padding: 4rem;
+      margin-bottom: 3rem;
+  }
+  
+  #section-3{
+      margin-bottom: 0;
+      background-color: #EEF1FF;
+  }
+  
+  .carousel{
+      margin: 1rem;
+      margin-top: 4rem;
+  }
+  
+  .carousel-body{
+      position: relative;
+  }
+  
+  .content{
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 2%;
+  }
+  
+  .carousel-indicators{
+      width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+      position: absolute;
+      bottom: -5rem;
+  }
+  
+  .carousel-indicators button{
+      background-color: #06283D !important;
+      border-radius: 50%;
+      width: 1rem !important;
+      height: 1rem !important;
+  }
+  
+  .carousel-body h2{
+      text-align: center;
+      color: #125d9a;
+  }
+  
+  .carousel-body .lefticon{
+      position: absolute;
+      top: 10%;
+      left: 10%;
+      color: black;
+  }
+  
+  .carousel-body .righticon{
+      position: absolute;
+      bottom: 10%;
+      right: 10%;
+      color: black;
+  }
+  
+  .carousel-item div{
+      background-color: white;
+      width: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  .carousel-item .carousel-body{
+      border-radius: 10% !important;
+  }
+  
+  .car-controlbtn{
+      background-color: #06283D;
+      font-weight: 700;
+      color: white;
+      border-radius: 50%;
+      position: absolute;
+      right: -10%;
+  }
+  
+  .car-controlbtn , .car-controlbtnr {
+      opacity: 1 !important;
+  }
+  
+  .select{
+      color: darkgreen;
+  }
+
+  .x{
+    position: relative;
+  }
+  
+  .sliderbtn{
+      width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      position: relative;
+      top: 5rem;
+      margin-bottom: 1rem;
+      background-color: #06283D;
+      color: white;
+      font-weight: 600;
+      margin-bottom: 2rem;
+  }
+  
+  .sliderbtn:hover{
+      font-weight: 200;
+  }
+  
+  .car-controlbtnr{
+      background-color: #06283D;
+      font-weight: 700;
+      color: white;
+      border-radius: 50%;
+      position: absolute;
+      left: -10%;
+  }
+  
+  .accordion-button{
+      text-align: center;
+  }
+  
+  #form, #form2{
+      margin-left: 12%;
+      margin-top: 3rem;
+  }
+  
+  .dropdown-div{
+      margin-top: 3rem;
+  }
+  
+  .h3-drop{
+      margin-left: 12%;
+  }
+  
+  .submit-btn{
+      width: max-content;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  hr{
+    height: 0.55rem !important;
+    background: linear-gradient(to bottom, grey, white) !important;
+  }
+  
+  .dropdown-div .btn-group {
+      display: block;
+      width: 76%;
+      margin-left: auto;
+      margin-right: auto;
+      border: whitesmoke;
+  }
+  
+  .dropdown-toggle::after {
+      margin-top: auto;
+      float: right;
+  }
+  
+  .dropdown-menu li:hover{
+      background-color: white;
+      color: #61876E;
+      font-weight: 400;
+  }
+  
+  .btn-group{
+      position: relative;
+  }
+  
+  .btn-drop, .dropdown-menu{
+      width: 100%;
+      text-align: left;
+      color: #61876E;
+      font-weight: 600;
+  }
+  
+  .form-check, .form2-check, .btn-group{
+    margin: 2rem;
+  }
+  
+  .accordion{
+      width: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 2rem;
+      text-align: center;
+  }
+  
+  .card .card-title, .card .card-text, .card h5, .card h6 {
+      margin: 3rem;
+  }
+  
+  .card{
+      position: relative;
+      background-color: black;
+  }
+  
+  .accordion-body{
+      background-color: whitesmoke;
+  }
+  .accordion-item{
+      margin-top:1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow:10px 10px 5px 2px #61986E;
+  }
+  
+  .accordion-button{
+      font-weight: 800;
+      font-size: 1rem;
+      color:black;
+  }
+  
+  .card a{
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+  }
+  
+  .card-h5-1, .card-text1{
+      color: #F0997D;
+      font-weight: 500;
+  }
+  .btn-bronze{
+      background-color: #F0997D;
+      color: black;
+  }
+  .card-h5-2, .card-text2{
+      color: #6B728E;
+      font-weight: 500;
+  }
+  .btn-silver{
+      background-color: #6B728E;
+      color: black;
+  }
+  .card-h5-3, .card-text3{
+      color: #FFD56F;
+      font-weight: 500;
+  }
+  .btn-gold{
+      background-color: #FFD56F;
+      color: black;
+  }
+  
+  .card .btn:hover{
+      background-color: #61986E;
+  }
+  
+  .card-title{
+      color: grey;
+      font-size: 2rem;
+      font-weight: 300;
+  }
+  
+  .card-body{
+      background-color: azure;
+      width: 100%;
+  }
+  
+  
+  .strike{
+      text-decoration: line-through;
+  }
+  
+  .dropdown-menu{
+      overflow: auto;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    height: fit-content
+  }
+  
+  input[type="radio"]:checked, input[type="radio"]:checked ~ label, input[type="checkbox"]:checked, input[type="checkbox"]:checked ~ label{
+      color: #61876E;
+      font-weight: bolder;
+  }
+  input[type="radio"]:checked{
+      background-color: #61876E;
+  }
+  
+  .form-check-label, .form2-check-label{
+      font-size: larger;
+  }
+  
+  @media screen and (max-width: 1000px) {
+      #form, #form2, .h3-drop{
+          display: block;
+          width: 90%;
+          margin-left: auto;
+          margin-right: auto;
+          text-align: center;
+      }
+  
+      .carousel-item div{
+          width: 85%;
+          min-height: 5rem;
+      }
+  
+      .carousel-body .lefticon{
+          top: 5%;
+          left: 5%;
+      }
+      
+      .carousel-body .righticon{
+          position: absolute;
+          bottom: 5%;
+          right: 5%;
+          color: black;
+      }
+  
+      .car-controlbtn{
+          right: 60%;
+      }
+  
+      .car-controlbtnr{
+          left: 60%;
+      }
+  
+      .accordion-item , .accordion-button, .accordion-body{
+          width: 100%;
+      }
+  
+      .card{
+          position: relative;
+          right: 12%;
+      }
+
+      #section-1, #section-2, #section-3{
+        padding: 0.5rem;
+        padding-bottom: 2rem;
+        /* margin-bottom: 2rem; */
+      }
+      #section-3{
+        height: 800px;
+      }
+      
+  }
+  
+  .sec-head{
+      color: #61986E;
+      display: block;
+      margin-bottom: 5rem;
+      margin-left: auto;
+      margin-right: auto;
+      width: fit-content;
+  }
